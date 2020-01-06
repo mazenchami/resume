@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-wrapper, .main-wrapper, footer {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.lh-condensed {
+    font-size: 16px !important;
+    line-height: 1.25 !important;
+}
+
+.repo-language-color {
+    filter: brightness(125%) !important;
+    border-radius: 50%;
+    display: inline-block;
+    height: 12px;
+    position: relative;
+    width: 12px;
+}
+
+.f6 {
+    align-items: center;
+}
+
+.mb-4 {
+    margin-top: 20px;
+}
+
+.height-full {
+    height: 100% !important;
+}
+.flex-justify-between {
+    justify-content: space-between !important;
+}
+
+.link-gray-dark {
+    color: #24292e !important;
+}
+
+.link-wrapper:hover {
+    text-decoration: none;
+}
+
+.border {
+    border: 1px #e1e4e8 solid !important;
+}
